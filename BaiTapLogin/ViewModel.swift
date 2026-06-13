@@ -25,6 +25,11 @@ class ViewModel {
         users.append(newUser)
     }
     
+    func addUser(userName: String,password: String, fullName: String, role: String, managerID: String){
+        let addUser = User(username: userName, password: password, fullname: fullName, role: role, managerID: managerID)
+        users.append(addUser)
+    }
+    
     func listUserByManagerID(tenCuaSep: String) -> [User] {
         return  users.filter { $0.managerID == tenCuaSep }
     }

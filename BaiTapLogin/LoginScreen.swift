@@ -11,6 +11,7 @@ enum Route: Hashable {
     case signUp
     case detail(User)
     case edit(User)
+    case add(User)
 }
 
 @Observable
@@ -127,6 +128,8 @@ struct LoginScreen: View {
                     SignUpScreen(viewModel: viewModel)
                 case .detail(let thongTinUser):
                     DetailUserScreen(viewModel: viewModel, user: thongTinUser)
+                case .add(let thongTinUser):
+                    AddScreen(viewModel: viewModel, user: thongTinUser)
                 case .edit(let thongTinUser):
                     EditScreen(viewModel: viewModel, user: thongTinUser)
                 }

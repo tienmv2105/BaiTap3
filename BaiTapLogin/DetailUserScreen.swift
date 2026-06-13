@@ -31,7 +31,7 @@ struct DetailUserScreen: View {
                 .padding(.vertical, 10)
                 
                 Button{
-                    
+                     router.push(.add(user))
                 } label: {
                     Text("Add new user")
                 }
