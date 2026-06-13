@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		631E11572FDD0C0C00935939 /* BaiTap_3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaiTap_3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		63FF849E2FCD877100797FC4 /* BaiTapLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BaiTapLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		631E11592FDD0C0C00935939 /* BaiTap_3 */ = {
+		63FF84A02FCD877100797FC4 /* BaiTapLogin */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BaiTap_3;
+			path = BaiTapLogin;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		631E11542FDD0C0C00935939 /* Frameworks */ = {
+		63FF849B2FCD877100797FC4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		631E114E2FDD0C0C00935939 = {
+		63FF84952FCD877100797FC4 = {
 			isa = PBXGroup;
 			children = (
-				631E11592FDD0C0C00935939 /* BaiTap_3 */,
-				631E11582FDD0C0C00935939 /* Products */,
+				63FF84A02FCD877100797FC4 /* BaiTapLogin */,
+				63FF849F2FCD877100797FC4 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		631E11582FDD0C0C00935939 /* Products */ = {
+		63FF849F2FCD877100797FC4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				631E11572FDD0C0C00935939 /* BaiTap_3.app */,
+				63FF849E2FCD877100797FC4 /* BaiTapLogin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		631E11562FDD0C0C00935939 /* BaiTap_3 */ = {
+		63FF849D2FCD877100797FC4 /* BaiTapLogin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 631E11622FDD0C0C00935939 /* Build configuration list for PBXNativeTarget "BaiTap_3" */;
+			buildConfigurationList = 63FF84A92FCD877200797FC4 /* Build configuration list for PBXNativeTarget "BaiTapLogin" */;
 			buildPhases = (
-				631E11532FDD0C0C00935939 /* Sources */,
-				631E11542FDD0C0C00935939 /* Frameworks */,
-				631E11552FDD0C0C00935939 /* Resources */,
+				63FF849A2FCD877100797FC4 /* Sources */,
+				63FF849B2FCD877100797FC4 /* Frameworks */,
+				63FF849C2FCD877100797FC4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				631E11592FDD0C0C00935939 /* BaiTap_3 */,
+				63FF84A02FCD877100797FC4 /* BaiTapLogin */,
 			);
-			name = BaiTap_3;
+			name = BaiTapLogin;
 			packageProductDependencies = (
 			);
-			productName = BaiTap_3;
-			productReference = 631E11572FDD0C0C00935939 /* BaiTap_3.app */;
+			productName = BaiTapLogin;
+			productReference = 63FF849E2FCD877100797FC4 /* BaiTapLogin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		631E114F2FDD0C0C00935939 /* Project object */ = {
+		63FF84962FCD877100797FC4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2650;
 				LastUpgradeCheck = 2650;
 				TargetAttributes = {
-					631E11562FDD0C0C00935939 = {
+					63FF849D2FCD877100797FC4 = {
 						CreatedOnToolsVersion = 26.5;
 					};
 				};
 			};
-			buildConfigurationList = 631E11522FDD0C0C00935939 /* Build configuration list for PBXProject "BaiTap_3" */;
+			buildConfigurationList = 63FF84992FCD877100797FC4 /* Build configuration list for PBXProject "BaiTapLogin" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 631E114E2FDD0C0C00935939;
+			mainGroup = 63FF84952FCD877100797FC4;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 631E11582FDD0C0C00935939 /* Products */;
+			productRefGroup = 63FF849F2FCD877100797FC4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				631E11562FDD0C0C00935939 /* BaiTap_3 */,
+				63FF849D2FCD877100797FC4 /* BaiTapLogin */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		631E11552FDD0C0C00935939 /* Resources */ = {
+		63FF849C2FCD877100797FC4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		631E11532FDD0C0C00935939 /* Sources */ = {
+		63FF849A2FCD877100797FC4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		631E11602FDD0C0C00935939 /* Debug */ = {
+		63FF84A72FCD877200797FC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -186,7 +186,7 @@
 			};
 			name = Debug;
 		};
-		631E11612FDD0C0C00935939 /* Release */ = {
+		63FF84A82FCD877200797FC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -239,7 +239,7 @@
 			};
 			name = Release;
 		};
-		631E11632FDD0C0C00935939 /* Debug */ = {
+		63FF84AA2FCD877200797FC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -265,7 +265,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-23.BaiTap-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "-23.BaiTapLogin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -281,7 +281,7 @@
 			};
 			name = Debug;
 		};
-		631E11642FDD0C0C00935939 /* Release */ = {
+		63FF84AB2FCD877200797FC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -307,7 +307,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 26.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-23.BaiTap-3";
+				PRODUCT_BUNDLE_IDENTIFIER = "-23.BaiTapLogin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
@@ -326,25 +326,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		631E11522FDD0C0C00935939 /* Build configuration list for PBXProject "BaiTap_3" */ = {
+		63FF84992FCD877100797FC4 /* Build configuration list for PBXProject "BaiTapLogin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				631E11602FDD0C0C00935939 /* Debug */,
-				631E11612FDD0C0C00935939 /* Release */,
+				63FF84A72FCD877200797FC4 /* Debug */,
+				63FF84A82FCD877200797FC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		631E11622FDD0C0C00935939 /* Build configuration list for PBXNativeTarget "BaiTap_3" */ = {
+		63FF84A92FCD877200797FC4 /* Build configuration list for PBXNativeTarget "BaiTapLogin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				631E11632FDD0C0C00935939 /* Debug */,
-				631E11642FDD0C0C00935939 /* Release */,
+				63FF84AA2FCD877200797FC4 /* Debug */,
+				63FF84AB2FCD877200797FC4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 631E114F2FDD0C0C00935939 /* Project object */;
+	rootObject = 63FF84962FCD877100797FC4 /* Project object */;
 }
